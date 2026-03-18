@@ -1,0 +1,515 @@
+Graph A: 100 vertices, 1536 edges
+Edge thresholds: edges < 1486 or edges > 1586
+
+Graph     Nodes     Edges     GED            EdgeStatus     
+------------------------------------------------------------
+B1        100       723       1791           BELOW          
+B2        100       718       1764           BELOW          
+B3        100       704       1804           BELOW          
+B4        100       678       1752           BELOW          
+B5        100       699       1811           BELOW          
+B6        100       669       1815           BELOW          
+B7        100       733       1821           BELOW          
+B8        100       688       1810           BELOW          
+B9        100       692       1774           BELOW          
+B10       100       704       1796           BELOW          
+B11       100       676       1824           BELOW          
+B12       101       669       VERTEX_MISMATCHBELOW          
+B13       100       700       1780           BELOW          
+B14       100       699       1801           BELOW          
+B15       100       707       1771           BELOW          
+B16       101       716       VERTEX_MISMATCHBELOW          
+B17       100       702       1794           BELOW          
+B18       100       678       1804           BELOW          
+B19       100       709       1793           BELOW          
+B20       100       687       1803           BELOW          
+B21       100       699       1843           BELOW          
+B22       100       699       1809           BELOW          
+B23       100       678       1774           BELOW          
+B24       100       698       1752           BELOW          
+B25       100       701       1823           BELOW          
+B26       100       706       1808           BELOW          
+B27       100       702       1816           BELOW          
+B28       100       751       1807           BELOW          
+B29       101       701       VERTEX_MISMATCHBELOW          
+B30       100       722       1814           BELOW          
+B31       100       708       1824           BELOW          
+B32       100       694       1832           BELOW          
+B33       100       730       1822           BELOW          
+B34       100       686       1758           BELOW          
+B35       101       674       VERTEX_MISMATCHBELOW          
+B36       101       708       VERTEX_MISMATCHBELOW          
+B37       101       721       VERTEX_MISMATCHBELOW          
+B38       101       721       VERTEX_MISMATCHBELOW          
+B39       100       704       1786           BELOW          
+B40       100       699       1839           BELOW          
+B41       100       698       1822           BELOW          
+B42       100       700       1824           BELOW          
+B43       100       708       1812           BELOW          
+B44       100       688       1788           BELOW          
+B45       100       696       1792           BELOW          
+B46       100       722       1810           BELOW          
+B47       100       694       1816           BELOW          
+B48       100       675       1763           BELOW          
+B49       100       692       1792           BELOW          
+B50       101       686       VERTEX_MISMATCHBELOW          
+B51       100       694       1806           BELOW          
+B52       100       739       1821           BELOW          
+B53       100       696       1792           BELOW          
+B54       100       703       1789           BELOW          
+B55       100       671       1797           BELOW          
+B56       100       700       1814           BELOW          
+B57       100       667       1783           BELOW          
+B58       100       692       1804           BELOW          
+B59       100       727       1815           BELOW          
+B60       100       672       1768           BELOW          
+B61       100       656       1762           BELOW          
+B62       101       690       VERTEX_MISMATCHBELOW          
+B63       100       689       1803           BELOW          
+B64       100       673       1821           BELOW          
+B65       100       699       1809           BELOW          
+B66       101       715       VERTEX_MISMATCHBELOW          
+B67       100       676       1790           BELOW          
+B68       100       718       1828           BELOW          
+B69       100       683       1761           BELOW          
+B70       100       753       1789           BELOW          
+B71       100       659       1753           BELOW          
+B72       100       719       1827           BELOW          
+B73       100       697       1733           BELOW          
+B74       100       684       1818           BELOW          
+B75       100       661       1793           BELOW          
+B76       100       672       1804           BELOW          
+B77       100       701       1827           BELOW          
+B78       100       713       1815           BELOW          
+B79       100       709       1815           BELOW          
+B80       100       695       1803           BELOW          
+B81       100       666       1786           BELOW          
+B82       100       716       1820           BELOW          
+B83       100       680       1792           BELOW          
+B84       100       696       1826           BELOW          
+B85       100       687       1803           BELOW          
+B86       100       695       1785           BELOW          
+B87       100       687       1813           BELOW          
+B88       100       675       1805           BELOW          
+B89       100       684       1808           BELOW          
+B90       101       681       VERTEX_MISMATCHBELOW          
+B91       100       724       1820           BELOW          
+B92       100       731       1803           BELOW          
+B93       100       702       1774           BELOW          
+B94       100       700       1836           BELOW          
+B95       100       719       1791           BELOW          
+B96       100       681       1811           BELOW          
+B97       100       660       1754           BELOW          
+B98       101       678       VERTEX_MISMATCHBELOW          
+B99       100       683       1779           BELOW          
+B100      100       696       1778           BELOW          
+B101      100       698       1764           BELOW          
+B102      99        704       VERTEX_MISMATCHBELOW          
+B103      100       729       1775           BELOW          
+B104      101       708       VERTEX_MISMATCHBELOW          
+B105      100       663       1813           BELOW          
+B106      100       698       1784           BELOW          
+B107      100       692       1804           BELOW          
+B108      100       690       1776           BELOW          
+B109      101       694       VERTEX_MISMATCHBELOW          
+B110      100       676       1814           BELOW          
+B111      99        695       VERTEX_MISMATCHBELOW          
+B112      100       675       1803           BELOW          
+B113      100       719       1817           BELOW          
+B114      100       733       1787           BELOW          
+B115      100       677       1749           BELOW          
+B116      100       704       1820           BELOW          
+B117      100       700       1798           BELOW          
+B118      100       684       1804           BELOW          
+B119      100       686       1814           BELOW          
+B120      100       703       1823           BELOW          
+B121      100       706       1794           BELOW          
+B122      101       718       VERTEX_MISMATCHBELOW          
+B123      100       687       1823           BELOW          
+B124      100       674       1782           BELOW          
+B125      101       696       VERTEX_MISMATCHBELOW          
+B126      100       664       1780           BELOW          
+B127      100       691       1823           BELOW          
+B128      100       717       1801           BELOW          
+B129      100       742       1808           BELOW          
+B130      101       672       VERTEX_MISMATCHBELOW          
+B131      100       716       1806           BELOW          
+B132      100       696       1828           BELOW          
+B133      100       677       1807           BELOW          
+B134      100       675       1777           BELOW          
+B135      100       681       1793           BELOW          
+B136      100       679       1811           BELOW          
+B137      100       704       1782           BELOW          
+B138      100       727       1817           BELOW          
+B139      100       727       1767           BELOW          
+B140      100       721       1819           BELOW          
+B141      100       708       1798           BELOW          
+B142      100       689       1805           BELOW          
+B143      100       711       1779           BELOW          
+B144      101       749       VERTEX_MISMATCHBELOW          
+B145      100       696       1820           BELOW          
+B146      100       692       1798           BELOW          
+B147      100       673       1779           BELOW          
+B148      100       671       1785           BELOW          
+B149      100       723       1785           BELOW          
+B150      100       692       1800           BELOW          
+B151      100       676       1796           BELOW          
+B152      101       714       VERTEX_MISMATCHBELOW          
+B153      100       697       1791           BELOW          
+B154      100       700       1824           BELOW          
+B155      100       701       1801           BELOW          
+B156      100       691       1791           BELOW          
+B157      100       699       1781           BELOW          
+B158      100       691       1809           BELOW          
+B159      100       700       1816           BELOW          
+B160      100       681       1811           BELOW          
+B161      100       687       1795           BELOW          
+B162      100       721       1791           BELOW          
+B163      100       674       1824           BELOW          
+B164      100       702       1824           BELOW          
+B165      99        671       VERTEX_MISMATCHBELOW          
+B166      100       672       1796           BELOW          
+B167      100       751       1801           BELOW          
+B168      100       700       1810           BELOW          
+B169      100       694       1838           BELOW          
+B170      101       723       VERTEX_MISMATCHBELOW          
+B171      100       667       1761           BELOW          
+B172      100       685       1805           BELOW          
+B173      100       711       1785           BELOW          
+B174      100       671       1779           BELOW          
+B175      100       738       1812           BELOW          
+B176      100       690       1784           BELOW          
+B177      100       655       1779           BELOW          
+B178      100       674       1788           BELOW          
+B179      101       687       VERTEX_MISMATCHBELOW          
+B180      100       685       1765           BELOW          
+B181      100       706       1794           BELOW          
+B182      100       688       1808           BELOW          
+B183      100       698       1790           BELOW          
+B184      100       664       1810           BELOW          
+B185      100       691       1799           BELOW          
+B186      100       715       1811           BELOW          
+B187      101       695       VERTEX_MISMATCHBELOW          
+B188      100       719       1827           BELOW          
+B189      100       705       1801           BELOW          
+B190      100       704       1798           BELOW          
+B191      101       740       VERTEX_MISMATCHBELOW          
+B192      101       686       VERTEX_MISMATCHBELOW          
+B193      100       667       1807           BELOW          
+B194      100       673       1789           BELOW          
+B195      101       697       VERTEX_MISMATCHBELOW          
+B196      100       719       1831           BELOW          
+B197      100       709       1819           BELOW          
+B198      100       756       1824           BELOW          
+B199      100       682       1818           BELOW          
+B200      100       694       1790           BELOW          
+B201      100       703       1807           BELOW          
+B202      100       700       1790           BELOW          
+B203      100       695       1801           BELOW          
+B204      101       716       VERTEX_MISMATCHBELOW          
+B205      100       696       1796           BELOW          
+B206      100       694       1840           BELOW          
+B207      100       701       1775           BELOW          
+B208      100       683       1781           BELOW          
+B209      100       719       1813           BELOW          
+B210      100       667       1805           BELOW          
+B211      100       726       1790           BELOW          
+B212      100       698       1816           BELOW          
+B213      100       716       1778           BELOW          
+B214      100       719       1797           BELOW          
+B215      100       720       1800           BELOW          
+B216      100       651       1757           BELOW          
+B217      101       717       VERTEX_MISMATCHBELOW          
+B218      100       697       1783           BELOW          
+B219      100       698       1790           BELOW          
+B220      100       642       1772           BELOW          
+B221      100       660       1782           BELOW          
+B222      100       688       1802           BELOW          
+B223      100       692       1830           BELOW          
+B224      100       741       1833           BELOW          
+B225      100       669       1725           BELOW          
+B226      100       678       1822           BELOW          
+B227      100       667       1775           BELOW          
+B228      100       720       1802           BELOW          
+B229      100       687       1759           BELOW          
+B230      100       686       1798           BELOW          
+B231      100       693       1827           BELOW          
+B232      100       677       1767           BELOW          
+B233      100       677       1789           BELOW          
+B234      100       681       1795           BELOW          
+B235      100       706       1804           BELOW          
+B236      100       716       1814           BELOW          
+B237      100       701       1789           BELOW          
+B238      100       703       1801           BELOW          
+B239      100       672       1780           BELOW          
+B240      101       724       VERTEX_MISMATCHBELOW          
+B241      100       689       1811           BELOW          
+B242      100       705       1775           BELOW          
+B243      100       694       1774           BELOW          
+B244      101       730       VERTEX_MISMATCHBELOW          
+B245      100       670       1796           BELOW          
+B246      100       704       1802           BELOW          
+B247      100       709       1805           BELOW          
+B248      100       685       1777           BELOW          
+B249      100       749       1845           BELOW          
+B250      100       680       1788           BELOW          
+B251      100       708       1822           BELOW          
+B252      100       692       1792           BELOW          
+B253      100       692       1798           BELOW          
+B254      100       708       1800           BELOW          
+B255      100       708       1762           BELOW          
+B256      100       729       1795           BELOW          
+B257      100       685       1805           BELOW          
+B258      100       690       1858           BELOW          
+B259      100       697       1805           BELOW          
+B260      100       721       1845           BELOW          
+B261      101       695       VERTEX_MISMATCHBELOW          
+B262      101       688       VERTEX_MISMATCHBELOW          
+B263      100       705       1817           BELOW          
+B264      100       695       1807           BELOW          
+B265      100       712       1844           BELOW          
+B266      100       721       1799           BELOW          
+B267      100       679       1801           BELOW          
+B268      100       709       1803           BELOW          
+B269      100       712       1788           BELOW          
+B270      100       670       1816           BELOW          
+B271      100       699       1829           BELOW          
+B272      100       704       1796           BELOW          
+B273      100       696       1818           BELOW          
+B274      100       723       1841           BELOW          
+B275      100       704       1806           BELOW          
+B276      100       709       1785           BELOW          
+B277      100       700       1798           BELOW          
+B278      101       675       VERTEX_MISMATCHBELOW          
+B279      100       692       1754           BELOW          
+B280      100       670       1770           BELOW          
+B281      101       745       VERTEX_MISMATCHBELOW          
+B282      101       705       VERTEX_MISMATCHBELOW          
+B283      100       684       1794           BELOW          
+B284      100       720       1806           BELOW          
+B285      100       722       1776           BELOW          
+B286      100       704       1822           BELOW          
+B287      100       708       1806           BELOW          
+B288      100       674       1790           BELOW          
+B289      100       684       1772           BELOW          
+B290      100       738       1842           BELOW          
+B291      100       674       1832           BELOW          
+B292      100       748       1818           BELOW          
+B293      100       681       1823           BELOW          
+B294      100       701       1797           BELOW          
+B295      100       705       1799           BELOW          
+B296      99        678       VERTEX_MISMATCHBELOW          
+B297      100       660       1766           BELOW          
+B298      100       751       1791           BELOW          
+B299      100       675       1763           BELOW          
+B300      100       701       1849           BELOW          
+B301      100       692       1788           BELOW          
+B302      100       717       1821           BELOW          
+B303      100       687       1793           BELOW          
+B304      100       680       1800           BELOW          
+B305      100       711       1795           BELOW          
+B306      100       677       1789           BELOW          
+B307      100       700       1836           BELOW          
+B308      100       702       1748           BELOW          
+B309      100       669       1789           BELOW          
+B310      100       692       1782           BELOW          
+B311      100       720       1778           BELOW          
+B312      100       728       1816           BELOW          
+B313      100       697       1797           BELOW          
+B314      100       703       1801           BELOW          
+B315      99        710       VERTEX_MISMATCHBELOW          
+B316      101       688       VERTEX_MISMATCHBELOW          
+B317      100       730       1796           BELOW          
+B318      100       710       1790           BELOW          
+B319      100       720       1828           BELOW          
+B320      100       675       1777           BELOW          
+B321      100       699       1801           BELOW          
+B322      101       746       VERTEX_MISMATCHBELOW          
+B323      100       664       1754           BELOW          
+B324      100       708       1820           BELOW          
+B325      100       723       1781           BELOW          
+B326      100       701       1793           BELOW          
+B327      100       728       1824           BELOW          
+B328      100       710       1788           BELOW          
+B329      100       692       1800           BELOW          
+B330      100       688       1832           BELOW          
+B331      101       713       VERTEX_MISMATCHBELOW          
+B332      100       708       1806           BELOW          
+B333      100       679       1797           BELOW          
+B334      100       682       1780           BELOW          
+B335      100       675       1807           BELOW          
+B336      100       714       1774           BELOW          
+B337      101       706       VERTEX_MISMATCHBELOW          
+B338      100       702       1780           BELOW          
+B339      100       752       1806           BELOW          
+B340      100       696       1786           BELOW          
+B341      100       708       1826           BELOW          
+B342      101       689       VERTEX_MISMATCHBELOW          
+B343      100       693       1775           BELOW          
+B344      100       677       1781           BELOW          
+B345      100       701       1787           BELOW          
+B346      100       706       1836           BELOW          
+B347      100       718       1790           BELOW          
+B348      100       652       1800           BELOW          
+B349      100       724       1790           BELOW          
+B350      100       670       1798           BELOW          
+B351      100       750       1828           BELOW          
+B352      101       708       VERTEX_MISMATCHBELOW          
+B353      100       674       1792           BELOW          
+B354      100       677       1743           BELOW          
+B355      100       693       1801           BELOW          
+B356      100       664       1790           BELOW          
+B357      100       706       1784           BELOW          
+B358      100       699       1771           BELOW          
+B359      100       707       1803           BELOW          
+B360      100       694       1798           BELOW          
+B361      100       666       1770           BELOW          
+B362      100       718       1820           BELOW          
+B363      100       708       1782           BELOW          
+B364      100       719       1809           BELOW          
+B365      100       728       1798           BELOW          
+B366      100       709       1793           BELOW          
+B367      100       663       1815           BELOW          
+B368      100       701       1813           BELOW          
+B369      100       672       1782           BELOW          
+B370      101       703       VERTEX_MISMATCHBELOW          
+B371      100       683       1789           BELOW          
+B372      100       703       1781           BELOW          
+B373      101       723       VERTEX_MISMATCHBELOW          
+B374      100       677       1779           BELOW          
+B375      100       688       1760           BELOW          
+B376      100       710       1802           BELOW          
+B377      100       719       1833           BELOW          
+B378      100       724       1782           BELOW          
+B379      100       680       1780           BELOW          
+B380      100       692       1810           BELOW          
+B381      101       698       VERTEX_MISMATCHBELOW          
+B382      101       732       VERTEX_MISMATCHBELOW          
+B383      100       665       1783           BELOW          
+B384      100       689       1783           BELOW          
+B385      100       690       1798           BELOW          
+B386      100       718       1822           BELOW          
+B387      100       678       1758           BELOW          
+B388      100       701       1807           BELOW          
+B389      100       655       1741           BELOW          
+B390      100       729       1797           BELOW          
+B391      99        693       VERTEX_MISMATCHBELOW          
+B392      100       678       1784           BELOW          
+B393      100       694       1826           BELOW          
+B394      100       700       1836           BELOW          
+B395      100       690       1790           BELOW          
+B396      100       661       1775           BELOW          
+B397      100       661       1791           BELOW          
+B398      100       676       1788           BELOW          
+B399      100       712       1790           BELOW          
+B400      100       709       1837           BELOW          
+B401      100       756       1824           BELOW          
+B402      100       736       1824           BELOW          
+B403      100       704       1768           BELOW          
+B404      100       690       1808           BELOW          
+B405      100       720       1796           BELOW          
+B406      100       687       1773           BELOW          
+B407      100       708       1810           BELOW          
+B408      100       670       1794           BELOW          
+B409      100       691       1789           BELOW          
+B410      100       711       1827           BELOW          
+B411      100       687       1809           BELOW          
+B412      100       664       1796           BELOW          
+B413      100       666       1806           BELOW          
+B414      100       640       1782           BELOW          
+B415      100       671       1791           BELOW          
+B416      100       677       1791           BELOW          
+B417      100       709       1815           BELOW          
+B418      100       726       1862           BELOW          
+B419      100       689       1797           BELOW          
+B420      100       717       1815           BELOW          
+B421      100       708       1832           BELOW          
+B422      101       700       VERTEX_MISMATCHBELOW          
+B423      100       664       1790           BELOW          
+B424      100       700       1812           BELOW          
+B425      100       684       1794           BELOW          
+B426      101       715       VERTEX_MISMATCHBELOW          
+B427      100       671       1795           BELOW          
+B428      100       711       1807           BELOW          
+B429      100       713       1795           BELOW          
+B430      100       685       1787           BELOW          
+B431      100       703       1819           BELOW          
+B432      100       705       1795           BELOW          
+B433      100       680       1796           BELOW          
+B434      99        688       VERTEX_MISMATCHBELOW          
+B435      100       643       1779           BELOW          
+B436      100       696       1800           BELOW          
+B437      100       697       1807           BELOW          
+B438      100       658       1796           BELOW          
+B439      100       706       1786           BELOW          
+B440      100       702       1784           BELOW          
+B441      100       692       1778           BELOW          
+B442      100       700       1776           BELOW          
+B443      100       725       1809           BELOW          
+B444      100       714       1820           BELOW          
+B445      100       716       1828           BELOW          
+B446      100       716       1770           BELOW          
+B447      100       744       1814           BELOW          
+B448      100       685       1797           BELOW          
+B449      100       687       1767           BELOW          
+B450      100       720       1828           BELOW          
+B451      100       688       1782           BELOW          
+B452      100       709       1815           BELOW          
+B453      101       694       VERTEX_MISMATCHBELOW          
+B454      100       694       1772           BELOW          
+B455      100       669       1809           BELOW          
+B456      100       734       1828           BELOW          
+B457      101       727       VERTEX_MISMATCHBELOW          
+B458      99        659       VERTEX_MISMATCHBELOW          
+B459      100       741       1815           BELOW          
+B460      100       692       1832           BELOW          
+B461      100       694       1772           BELOW          
+B462      100       733       1813           BELOW          
+B463      100       693       1819           BELOW          
+B464      100       705       1797           BELOW          
+B465      100       686       1786           BELOW          
+B466      100       702       1766           BELOW          
+B467      100       718       1810           BELOW          
+B468      100       741       1815           BELOW          
+B469      100       746       1808           BELOW          
+B470      100       690       1812           BELOW          
+B471      100       716       1826           BELOW          
+B472      100       689       1785           BELOW          
+B473      100       669       1809           BELOW          
+B474      101       703       VERTEX_MISMATCHBELOW          
+B475      100       720       1818           BELOW          
+B476      100       703       1781           BELOW          
+B477      100       726       1820           BELOW          
+B478      100       728       1748           BELOW          
+B479      100       694       1802           BELOW          
+B480      101       698       VERTEX_MISMATCHBELOW          
+B481      100       701       1813           BELOW          
+B482      100       730       1832           BELOW          
+B483      101       688       VERTEX_MISMATCHBELOW          
+B484      100       704       1818           BELOW          
+B485      100       641       1795           BELOW          
+B486      100       688       1780           BELOW          
+B487      101       702       VERTEX_MISMATCHBELOW          
+B488      100       695       1819           BELOW          
+B489      100       728       1832           BELOW          
+B490      100       699       1769           BELOW          
+B491      100       705       1807           BELOW          
+B492      100       684       1806           BELOW          
+B493      100       695       1801           BELOW          
+B494      100       674       1834           BELOW          
+B495      100       697       1789           BELOW          
+B496      101       737       VERTEX_MISMATCHBELOW          
+B497      100       720       1798           BELOW          
+B498      100       721       1815           BELOW          
+B499      100       728       1826           BELOW          
+B500      101       700       VERTEX_MISMATCHBELOW          
+
+============================================================
+STATISTICS (first 500 graphs from file B):
+Graphs with GED <= 50: 0
+Graphs with GED > 50: 438
+Graphs with edges < 1486: 500
+Graphs with edges > 1586: 0
+Graphs with edges in range [1486, 1586]: 0
+Graphs with different vertex count: 62
+Total graphs processed: 500
