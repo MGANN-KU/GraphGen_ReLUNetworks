@@ -1,0 +1,515 @@
+Graph A: 10 vertices, 9 edges
+Edge thresholds: edges < 4 or edges > 14
+
+Graph     Nodes     Edges     GED            EdgeStatus     
+------------------------------------------------------------
+B1        8         9         VERTEX_MISMATCHIN_RANGE       
+B2        8         9         VERTEX_MISMATCHIN_RANGE       
+B3        10        12        11             IN_RANGE       
+B4        8         8         VERTEX_MISMATCHIN_RANGE       
+B5        10        10        13             IN_RANGE       
+B6        2         1         VERTEX_MISMATCHBELOW          
+B7        10        10        13             IN_RANGE       
+B8        8         8         VERTEX_MISMATCHIN_RANGE       
+B9        8         9         VERTEX_MISMATCHIN_RANGE       
+B10       3         2         VERTEX_MISMATCHBELOW          
+B11       8         9         VERTEX_MISMATCHIN_RANGE       
+B12       8         8         VERTEX_MISMATCHIN_RANGE       
+B13       10        10        13             IN_RANGE       
+B14       10        12        15             IN_RANGE       
+B15       8         10        VERTEX_MISMATCHIN_RANGE       
+B16       10        10        13             IN_RANGE       
+B17       0         0         VERTEX_MISMATCHBELOW          
+B18       9         12        VERTEX_MISMATCHIN_RANGE       
+B19       10        10        11             IN_RANGE       
+B20       2         1         VERTEX_MISMATCHBELOW          
+B21       8         7         VERTEX_MISMATCHIN_RANGE       
+B22       8         8         VERTEX_MISMATCHIN_RANGE       
+B23       10        11        16             IN_RANGE       
+B24       8         8         VERTEX_MISMATCHIN_RANGE       
+B25       8         9         VERTEX_MISMATCHIN_RANGE       
+B26       10        12        13             IN_RANGE       
+B27       8         8         VERTEX_MISMATCHIN_RANGE       
+B28       10        11        18             IN_RANGE       
+B29       10        10        11             IN_RANGE       
+B30       8         8         VERTEX_MISMATCHIN_RANGE       
+B31       10        12        15             IN_RANGE       
+B32       8         12        VERTEX_MISMATCHIN_RANGE       
+B33       8         9         VERTEX_MISMATCHIN_RANGE       
+B34       10        11        18             IN_RANGE       
+B35       10        11        12             IN_RANGE       
+B36       10        12        17             IN_RANGE       
+B37       8         9         VERTEX_MISMATCHIN_RANGE       
+B38       2         1         VERTEX_MISMATCHBELOW          
+B39       8         9         VERTEX_MISMATCHIN_RANGE       
+B40       10        10        9              IN_RANGE       
+B41       10        11        14             IN_RANGE       
+B42       10        11        12             IN_RANGE       
+B43       10        12        15             IN_RANGE       
+B44       8         7         VERTEX_MISMATCHIN_RANGE       
+B45       10        10        13             IN_RANGE       
+B46       8         9         VERTEX_MISMATCHIN_RANGE       
+B47       8         9         VERTEX_MISMATCHIN_RANGE       
+B48       2         1         VERTEX_MISMATCHBELOW          
+B49       8         9         VERTEX_MISMATCHIN_RANGE       
+B50       8         9         VERTEX_MISMATCHIN_RANGE       
+B51       10        12        13             IN_RANGE       
+B52       2         1         VERTEX_MISMATCHBELOW          
+B53       10        12        15             IN_RANGE       
+B54       8         8         VERTEX_MISMATCHIN_RANGE       
+B55       10        11        12             IN_RANGE       
+B56       8         9         VERTEX_MISMATCHIN_RANGE       
+B57       10        9         16             IN_RANGE       
+B58       10        13        14             IN_RANGE       
+B59       10        11        16             IN_RANGE       
+B60       10        10        9              IN_RANGE       
+B61       9         10        VERTEX_MISMATCHIN_RANGE       
+B62       5         4         VERTEX_MISMATCHIN_RANGE       
+B63       10        11        12             IN_RANGE       
+B64       5         4         VERTEX_MISMATCHIN_RANGE       
+B65       8         8         VERTEX_MISMATCHIN_RANGE       
+B66       8         7         VERTEX_MISMATCHIN_RANGE       
+B67       2         1         VERTEX_MISMATCHBELOW          
+B68       8         9         VERTEX_MISMATCHIN_RANGE       
+B69       10        10        11             IN_RANGE       
+B70       2         1         VERTEX_MISMATCHBELOW          
+B71       8         9         VERTEX_MISMATCHIN_RANGE       
+B72       10        11        12             IN_RANGE       
+B73       10        9         10             IN_RANGE       
+B74       10        11        14             IN_RANGE       
+B75       2         1         VERTEX_MISMATCHBELOW          
+B76       2         1         VERTEX_MISMATCHBELOW          
+B77       8         9         VERTEX_MISMATCHIN_RANGE       
+B78       10        11        16             IN_RANGE       
+B79       10        11        16             IN_RANGE       
+B80       10        10        15             IN_RANGE       
+B81       10        11        18             IN_RANGE       
+B82       10        11        16             IN_RANGE       
+B83       8         8         VERTEX_MISMATCHIN_RANGE       
+B84       9         9         VERTEX_MISMATCHIN_RANGE       
+B85       10        11        14             IN_RANGE       
+B86       9         11        VERTEX_MISMATCHIN_RANGE       
+B87       2         1         VERTEX_MISMATCHBELOW          
+B88       2         1         VERTEX_MISMATCHBELOW          
+B89       10        11        12             IN_RANGE       
+B90       10        11        16             IN_RANGE       
+B91       10        10        17             IN_RANGE       
+B92       8         8         VERTEX_MISMATCHIN_RANGE       
+B93       10        12        11             IN_RANGE       
+B94       8         9         VERTEX_MISMATCHIN_RANGE       
+B95       8         7         VERTEX_MISMATCHIN_RANGE       
+B96       8         9         VERTEX_MISMATCHIN_RANGE       
+B97       8         8         VERTEX_MISMATCHIN_RANGE       
+B98       2         1         VERTEX_MISMATCHBELOW          
+B99       7         7         VERTEX_MISMATCHIN_RANGE       
+B100      10        12        19             IN_RANGE       
+B101      10        10        11             IN_RANGE       
+B102      10        11        14             IN_RANGE       
+B103      10        10        15             IN_RANGE       
+B104      10        11        14             IN_RANGE       
+B105      10        10        13             IN_RANGE       
+B106      10        11        12             IN_RANGE       
+B107      8         9         VERTEX_MISMATCHIN_RANGE       
+B108      2         1         VERTEX_MISMATCHBELOW          
+B109      2         1         VERTEX_MISMATCHBELOW          
+B110      10        11        14             IN_RANGE       
+B111      2         1         VERTEX_MISMATCHBELOW          
+B112      8         9         VERTEX_MISMATCHIN_RANGE       
+B113      6         6         VERTEX_MISMATCHIN_RANGE       
+B114      8         9         VERTEX_MISMATCHIN_RANGE       
+B115      8         8         VERTEX_MISMATCHIN_RANGE       
+B116      8         8         VERTEX_MISMATCHIN_RANGE       
+B117      8         9         VERTEX_MISMATCHIN_RANGE       
+B118      10        12        11             IN_RANGE       
+B119      0         0         VERTEX_MISMATCHBELOW          
+B120      7         7         VERTEX_MISMATCHIN_RANGE       
+B121      10        11        16             IN_RANGE       
+B122      10        11        14             IN_RANGE       
+B123      10        10        11             IN_RANGE       
+B124      8         10        VERTEX_MISMATCHIN_RANGE       
+B125      10        10        13             IN_RANGE       
+B126      8         10        VERTEX_MISMATCHIN_RANGE       
+B127      8         8         VERTEX_MISMATCHIN_RANGE       
+B128      10        11        12             IN_RANGE       
+B129      10        11        12             IN_RANGE       
+B130      7         8         VERTEX_MISMATCHIN_RANGE       
+B131      10        11        12             IN_RANGE       
+B132      8         7         VERTEX_MISMATCHIN_RANGE       
+B133      10        11        16             IN_RANGE       
+B134      8         8         VERTEX_MISMATCHIN_RANGE       
+B135      8         8         VERTEX_MISMATCHIN_RANGE       
+B136      10        10        17             IN_RANGE       
+B137      10        11        16             IN_RANGE       
+B138      10        10        13             IN_RANGE       
+B139      8         8         VERTEX_MISMATCHIN_RANGE       
+B140      10        11        12             IN_RANGE       
+B141      8         9         VERTEX_MISMATCHIN_RANGE       
+B142      10        11        10             IN_RANGE       
+B143      2         1         VERTEX_MISMATCHBELOW          
+B144      8         10        VERTEX_MISMATCHIN_RANGE       
+B145      10        11        14             IN_RANGE       
+B146      10        11        18             IN_RANGE       
+B147      8         9         VERTEX_MISMATCHIN_RANGE       
+B148      4         4         VERTEX_MISMATCHIN_RANGE       
+B149      2         1         VERTEX_MISMATCHBELOW          
+B150      8         9         VERTEX_MISMATCHIN_RANGE       
+B151      10        10        13             IN_RANGE       
+B152      5         5         VERTEX_MISMATCHIN_RANGE       
+B153      10        10        13             IN_RANGE       
+B154      10        12        17             IN_RANGE       
+B155      2         1         VERTEX_MISMATCHBELOW          
+B156      8         11        VERTEX_MISMATCHIN_RANGE       
+B157      8         9         VERTEX_MISMATCHIN_RANGE       
+B158      8         8         VERTEX_MISMATCHIN_RANGE       
+B159      10        10        15             IN_RANGE       
+B160      10        9         16             IN_RANGE       
+B161      8         8         VERTEX_MISMATCHIN_RANGE       
+B162      8         7         VERTEX_MISMATCHIN_RANGE       
+B163      8         8         VERTEX_MISMATCHIN_RANGE       
+B164      10        11        12             IN_RANGE       
+B165      8         9         VERTEX_MISMATCHIN_RANGE       
+B166      8         9         VERTEX_MISMATCHIN_RANGE       
+B167      2         1         VERTEX_MISMATCHBELOW          
+B168      10        10        13             IN_RANGE       
+B169      6         5         VERTEX_MISMATCHIN_RANGE       
+B170      10        10        13             IN_RANGE       
+B171      9         9         VERTEX_MISMATCHIN_RANGE       
+B172      8         9         VERTEX_MISMATCHIN_RANGE       
+B173      10        10        13             IN_RANGE       
+B174      10        12        15             IN_RANGE       
+B175      8         9         VERTEX_MISMATCHIN_RANGE       
+B176      8         8         VERTEX_MISMATCHIN_RANGE       
+B177      8         9         VERTEX_MISMATCHIN_RANGE       
+B178      8         9         VERTEX_MISMATCHIN_RANGE       
+B179      4         4         VERTEX_MISMATCHIN_RANGE       
+B180      10        10        13             IN_RANGE       
+B181      10        11        14             IN_RANGE       
+B182      10        11        16             IN_RANGE       
+B183      10        11        18             IN_RANGE       
+B184      8         8         VERTEX_MISMATCHIN_RANGE       
+B185      8         11        VERTEX_MISMATCHIN_RANGE       
+B186      10        11        14             IN_RANGE       
+B187      8         9         VERTEX_MISMATCHIN_RANGE       
+B188      8         8         VERTEX_MISMATCHIN_RANGE       
+B189      6         6         VERTEX_MISMATCHIN_RANGE       
+B190      10        11        14             IN_RANGE       
+B191      8         9         VERTEX_MISMATCHIN_RANGE       
+B192      10        11        10             IN_RANGE       
+B193      10        11        16             IN_RANGE       
+B194      10        10        13             IN_RANGE       
+B195      8         9         VERTEX_MISMATCHIN_RANGE       
+B196      2         1         VERTEX_MISMATCHBELOW          
+B197      10        11        14             IN_RANGE       
+B198      10        11        12             IN_RANGE       
+B199      10        11        14             IN_RANGE       
+B200      8         9         VERTEX_MISMATCHIN_RANGE       
+B201      10        12        13             IN_RANGE       
+B202      8         9         VERTEX_MISMATCHIN_RANGE       
+B203      2         1         VERTEX_MISMATCHBELOW          
+B204      10        11        14             IN_RANGE       
+B205      10        10        13             IN_RANGE       
+B206      10        10        13             IN_RANGE       
+B207      10        12        15             IN_RANGE       
+B208      10        11        20             IN_RANGE       
+B209      10        10        11             IN_RANGE       
+B210      8         7         VERTEX_MISMATCHIN_RANGE       
+B211      7         7         VERTEX_MISMATCHIN_RANGE       
+B212      8         11        VERTEX_MISMATCHIN_RANGE       
+B213      8         9         VERTEX_MISMATCHIN_RANGE       
+B214      8         8         VERTEX_MISMATCHIN_RANGE       
+B215      10        10        13             IN_RANGE       
+B216      8         8         VERTEX_MISMATCHIN_RANGE       
+B217      8         10        VERTEX_MISMATCHIN_RANGE       
+B218      8         9         VERTEX_MISMATCHIN_RANGE       
+B219      8         10        VERTEX_MISMATCHIN_RANGE       
+B220      10        12        17             IN_RANGE       
+B221      10        11        14             IN_RANGE       
+B222      8         10        VERTEX_MISMATCHIN_RANGE       
+B223      10        11        12             IN_RANGE       
+B224      10        12        17             IN_RANGE       
+B225      2         1         VERTEX_MISMATCHBELOW          
+B226      2         1         VERTEX_MISMATCHBELOW          
+B227      9         11        VERTEX_MISMATCHIN_RANGE       
+B228      10        10        17             IN_RANGE       
+B229      8         9         VERTEX_MISMATCHIN_RANGE       
+B230      8         8         VERTEX_MISMATCHIN_RANGE       
+B231      10        12        11             IN_RANGE       
+B232      10        10        13             IN_RANGE       
+B233      8         7         VERTEX_MISMATCHIN_RANGE       
+B234      10        10        9              IN_RANGE       
+B235      10        11        10             IN_RANGE       
+B236      10        11        12             IN_RANGE       
+B237      2         1         VERTEX_MISMATCHBELOW          
+B238      10        11        12             IN_RANGE       
+B239      10        11        12             IN_RANGE       
+B240      8         9         VERTEX_MISMATCHIN_RANGE       
+B241      8         10        VERTEX_MISMATCHIN_RANGE       
+B242      8         11        VERTEX_MISMATCHIN_RANGE       
+B243      10        11        14             IN_RANGE       
+B244      10        11        14             IN_RANGE       
+B245      10        10        15             IN_RANGE       
+B246      2         1         VERTEX_MISMATCHBELOW          
+B247      10        11        12             IN_RANGE       
+B248      8         8         VERTEX_MISMATCHIN_RANGE       
+B249      8         8         VERTEX_MISMATCHIN_RANGE       
+B250      9         9         VERTEX_MISMATCHIN_RANGE       
+B251      8         9         VERTEX_MISMATCHIN_RANGE       
+B252      10        10        15             IN_RANGE       
+B253      3         2         VERTEX_MISMATCHBELOW          
+B254      10        9         12             IN_RANGE       
+B255      2         1         VERTEX_MISMATCHBELOW          
+B256      8         9         VERTEX_MISMATCHIN_RANGE       
+B257      10        10        13             IN_RANGE       
+B258      10        10        15             IN_RANGE       
+B259      8         8         VERTEX_MISMATCHIN_RANGE       
+B260      10        11        12             IN_RANGE       
+B261      8         10        VERTEX_MISMATCHIN_RANGE       
+B262      10        11        14             IN_RANGE       
+B263      8         9         VERTEX_MISMATCHIN_RANGE       
+B264      10        13        16             IN_RANGE       
+B265      10        11        12             IN_RANGE       
+B266      10        11        14             IN_RANGE       
+B267      8         8         VERTEX_MISMATCHIN_RANGE       
+B268      10        10        15             IN_RANGE       
+B269      8         8         VERTEX_MISMATCHIN_RANGE       
+B270      8         11        VERTEX_MISMATCHIN_RANGE       
+B271      10        10        15             IN_RANGE       
+B272      8         10        VERTEX_MISMATCHIN_RANGE       
+B273      10        11        10             IN_RANGE       
+B274      10        12        15             IN_RANGE       
+B275      10        11        14             IN_RANGE       
+B276      10        11        10             IN_RANGE       
+B277      10        10        15             IN_RANGE       
+B278      4         3         VERTEX_MISMATCHBELOW          
+B279      10        13        16             IN_RANGE       
+B280      10        10        13             IN_RANGE       
+B281      2         1         VERTEX_MISMATCHBELOW          
+B282      10        10        15             IN_RANGE       
+B283      10        10        13             IN_RANGE       
+B284      10        11        16             IN_RANGE       
+B285      10        10        15             IN_RANGE       
+B286      10        11        12             IN_RANGE       
+B287      8         9         VERTEX_MISMATCHIN_RANGE       
+B288      2         1         VERTEX_MISMATCHBELOW          
+B289      8         8         VERTEX_MISMATCHIN_RANGE       
+B290      2         1         VERTEX_MISMATCHBELOW          
+B291      10        10        15             IN_RANGE       
+B292      10        11        14             IN_RANGE       
+B293      8         8         VERTEX_MISMATCHIN_RANGE       
+B294      2         1         VERTEX_MISMATCHBELOW          
+B295      10        11        16             IN_RANGE       
+B296      10        10        15             IN_RANGE       
+B297      10        11        14             IN_RANGE       
+B298      10        11        14             IN_RANGE       
+B299      10        11        16             IN_RANGE       
+B300      10        10        13             IN_RANGE       
+B301      8         9         VERTEX_MISMATCHIN_RANGE       
+B302      8         8         VERTEX_MISMATCHIN_RANGE       
+B303      10        11        16             IN_RANGE       
+B304      10        10        13             IN_RANGE       
+B305      10        11        14             IN_RANGE       
+B306      8         9         VERTEX_MISMATCHIN_RANGE       
+B307      10        13        16             IN_RANGE       
+B308      10        10        15             IN_RANGE       
+B309      10        11        16             IN_RANGE       
+B310      2         1         VERTEX_MISMATCHBELOW          
+B311      2         1         VERTEX_MISMATCHBELOW          
+B312      8         8         VERTEX_MISMATCHIN_RANGE       
+B313      10        10        15             IN_RANGE       
+B314      10        12        13             IN_RANGE       
+B315      10        11        16             IN_RANGE       
+B316      10        12        15             IN_RANGE       
+B317      4         4         VERTEX_MISMATCHIN_RANGE       
+B318      2         1         VERTEX_MISMATCHBELOW          
+B319      10        9         14             IN_RANGE       
+B320      8         10        VERTEX_MISMATCHIN_RANGE       
+B321      8         9         VERTEX_MISMATCHIN_RANGE       
+B322      8         10        VERTEX_MISMATCHIN_RANGE       
+B323      2         1         VERTEX_MISMATCHBELOW          
+B324      10        11        12             IN_RANGE       
+B325      10        11        14             IN_RANGE       
+B326      0         0         VERTEX_MISMATCHBELOW          
+B327      8         9         VERTEX_MISMATCHIN_RANGE       
+B328      8         9         VERTEX_MISMATCHIN_RANGE       
+B329      10        11        16             IN_RANGE       
+B330      8         9         VERTEX_MISMATCHIN_RANGE       
+B331      2         1         VERTEX_MISMATCHBELOW          
+B332      8         9         VERTEX_MISMATCHIN_RANGE       
+B333      8         8         VERTEX_MISMATCHIN_RANGE       
+B334      10        10        17             IN_RANGE       
+B335      10        10        13             IN_RANGE       
+B336      8         9         VERTEX_MISMATCHIN_RANGE       
+B337      4         4         VERTEX_MISMATCHIN_RANGE       
+B338      10        11        14             IN_RANGE       
+B339      8         8         VERTEX_MISMATCHIN_RANGE       
+B340      8         9         VERTEX_MISMATCHIN_RANGE       
+B341      2         1         VERTEX_MISMATCHBELOW          
+B342      8         8         VERTEX_MISMATCHIN_RANGE       
+B343      10        9         14             IN_RANGE       
+B344      8         9         VERTEX_MISMATCHIN_RANGE       
+B345      10        11        10             IN_RANGE       
+B346      10        10        17             IN_RANGE       
+B347      10        13        16             IN_RANGE       
+B348      8         8         VERTEX_MISMATCHIN_RANGE       
+B349      10        11        14             IN_RANGE       
+B350      8         8         VERTEX_MISMATCHIN_RANGE       
+B351      8         9         VERTEX_MISMATCHIN_RANGE       
+B352      8         8         VERTEX_MISMATCHIN_RANGE       
+B353      10        10        17             IN_RANGE       
+B354      8         8         VERTEX_MISMATCHIN_RANGE       
+B355      10        10        13             IN_RANGE       
+B356      8         8         VERTEX_MISMATCHIN_RANGE       
+B357      10        10        11             IN_RANGE       
+B358      8         8         VERTEX_MISMATCHIN_RANGE       
+B359      8         11        VERTEX_MISMATCHIN_RANGE       
+B360      2         1         VERTEX_MISMATCHBELOW          
+B361      10        11        12             IN_RANGE       
+B362      8         9         VERTEX_MISMATCHIN_RANGE       
+B363      10        11        14             IN_RANGE       
+B364      8         10        VERTEX_MISMATCHIN_RANGE       
+B365      2         1         VERTEX_MISMATCHBELOW          
+B366      10        10        15             IN_RANGE       
+B367      10        9         16             IN_RANGE       
+B368      8         8         VERTEX_MISMATCHIN_RANGE       
+B369      10        11        14             IN_RANGE       
+B370      10        10        15             IN_RANGE       
+B371      2         1         VERTEX_MISMATCHBELOW          
+B372      8         8         VERTEX_MISMATCHIN_RANGE       
+B373      10        10        15             IN_RANGE       
+B374      10        11        14             IN_RANGE       
+B375      10        11        14             IN_RANGE       
+B376      10        13        16             IN_RANGE       
+B377      8         9         VERTEX_MISMATCHIN_RANGE       
+B378      10        10        11             IN_RANGE       
+B379      10        10        11             IN_RANGE       
+B380      0         0         VERTEX_MISMATCHBELOW          
+B381      10        11        16             IN_RANGE       
+B382      2         1         VERTEX_MISMATCHBELOW          
+B383      8         8         VERTEX_MISMATCHIN_RANGE       
+B384      8         9         VERTEX_MISMATCHIN_RANGE       
+B385      10        11        14             IN_RANGE       
+B386      10        10        15             IN_RANGE       
+B387      10        12        15             IN_RANGE       
+B388      2         1         VERTEX_MISMATCHBELOW          
+B389      8         10        VERTEX_MISMATCHIN_RANGE       
+B390      10        10        19             IN_RANGE       
+B391      8         9         VERTEX_MISMATCHIN_RANGE       
+B392      2         1         VERTEX_MISMATCHBELOW          
+B393      10        11        12             IN_RANGE       
+B394      10        10        13             IN_RANGE       
+B395      10        10        13             IN_RANGE       
+B396      8         9         VERTEX_MISMATCHIN_RANGE       
+B397      2         1         VERTEX_MISMATCHBELOW          
+B398      8         10        VERTEX_MISMATCHIN_RANGE       
+B399      8         7         VERTEX_MISMATCHIN_RANGE       
+B400      8         9         VERTEX_MISMATCHIN_RANGE       
+B401      8         9         VERTEX_MISMATCHIN_RANGE       
+B402      10        10        9              IN_RANGE       
+B403      8         8         VERTEX_MISMATCHIN_RANGE       
+B404      8         9         VERTEX_MISMATCHIN_RANGE       
+B405      10        11        16             IN_RANGE       
+B406      10        10        13             IN_RANGE       
+B407      10        10        13             IN_RANGE       
+B408      10        12        9              IN_RANGE       
+B409      10        11        12             IN_RANGE       
+B410      2         1         VERTEX_MISMATCHBELOW          
+B411      10        11        20             IN_RANGE       
+B412      10        11        14             IN_RANGE       
+B413      8         9         VERTEX_MISMATCHIN_RANGE       
+B414      10        10        15             IN_RANGE       
+B415      10        10        11             IN_RANGE       
+B416      10        10        11             IN_RANGE       
+B417      10        11        18             IN_RANGE       
+B418      10        10        13             IN_RANGE       
+B419      10        11        12             IN_RANGE       
+B420      8         8         VERTEX_MISMATCHIN_RANGE       
+B421      8         8         VERTEX_MISMATCHIN_RANGE       
+B422      8         8         VERTEX_MISMATCHIN_RANGE       
+B423      7         7         VERTEX_MISMATCHIN_RANGE       
+B424      8         9         VERTEX_MISMATCHIN_RANGE       
+B425      10        12        13             IN_RANGE       
+B426      10        10        13             IN_RANGE       
+B427      2         1         VERTEX_MISMATCHBELOW          
+B428      10        11        14             IN_RANGE       
+B429      8         8         VERTEX_MISMATCHIN_RANGE       
+B430      9         9         VERTEX_MISMATCHIN_RANGE       
+B431      10        10        13             IN_RANGE       
+B432      8         10        VERTEX_MISMATCHIN_RANGE       
+B433      8         9         VERTEX_MISMATCHIN_RANGE       
+B434      10        10        13             IN_RANGE       
+B435      10        11        12             IN_RANGE       
+B436      8         9         VERTEX_MISMATCHIN_RANGE       
+B437      8         9         VERTEX_MISMATCHIN_RANGE       
+B438      10        13        16             IN_RANGE       
+B439      8         8         VERTEX_MISMATCHIN_RANGE       
+B440      8         10        VERTEX_MISMATCHIN_RANGE       
+B441      10        10        15             IN_RANGE       
+B442      8         7         VERTEX_MISMATCHIN_RANGE       
+B443      8         8         VERTEX_MISMATCHIN_RANGE       
+B444      10        12        15             IN_RANGE       
+B445      8         9         VERTEX_MISMATCHIN_RANGE       
+B446      6         6         VERTEX_MISMATCHIN_RANGE       
+B447      2         1         VERTEX_MISMATCHBELOW          
+B448      10        9         10             IN_RANGE       
+B449      10        11        16             IN_RANGE       
+B450      10        10        17             IN_RANGE       
+B451      10        10        17             IN_RANGE       
+B452      8         7         VERTEX_MISMATCHIN_RANGE       
+B453      10        10        15             IN_RANGE       
+B454      8         9         VERTEX_MISMATCHIN_RANGE       
+B455      8         11        VERTEX_MISMATCHIN_RANGE       
+B456      2         1         VERTEX_MISMATCHBELOW          
+B457      10        11        18             IN_RANGE       
+B458      10        13        16             IN_RANGE       
+B459      8         11        VERTEX_MISMATCHIN_RANGE       
+B460      10        10        13             IN_RANGE       
+B461      8         8         VERTEX_MISMATCHIN_RANGE       
+B462      2         1         VERTEX_MISMATCHBELOW          
+B463      10        11        16             IN_RANGE       
+B464      10        11        16             IN_RANGE       
+B465      10        11        18             IN_RANGE       
+B466      8         9         VERTEX_MISMATCHIN_RANGE       
+B467      10        12        19             IN_RANGE       
+B468      10        10        15             IN_RANGE       
+B469      8         9         VERTEX_MISMATCHIN_RANGE       
+B470      10        10        11             IN_RANGE       
+B471      10        10        9              IN_RANGE       
+B472      10        11        16             IN_RANGE       
+B473      8         10        VERTEX_MISMATCHIN_RANGE       
+B474      10        12        15             IN_RANGE       
+B475      10        12        15             IN_RANGE       
+B476      10        10        13             IN_RANGE       
+B477      10        10        15             IN_RANGE       
+B478      10        11        10             IN_RANGE       
+B479      8         8         VERTEX_MISMATCHIN_RANGE       
+B480      10        11        14             IN_RANGE       
+B481      10        11        16             IN_RANGE       
+B482      10        10        13             IN_RANGE       
+B483      2         1         VERTEX_MISMATCHBELOW          
+B484      8         11        VERTEX_MISMATCHIN_RANGE       
+B485      2         1         VERTEX_MISMATCHBELOW          
+B486      4         3         VERTEX_MISMATCHBELOW          
+B487      10        10        11             IN_RANGE       
+B488      10        9         10             IN_RANGE       
+B489      6         6         VERTEX_MISMATCHIN_RANGE       
+B490      8         10        VERTEX_MISMATCHIN_RANGE       
+B491      8         9         VERTEX_MISMATCHIN_RANGE       
+B492      10        11        16             IN_RANGE       
+B493      8         8         VERTEX_MISMATCHIN_RANGE       
+B494      8         10        VERTEX_MISMATCHIN_RANGE       
+B495      2         1         VERTEX_MISMATCHBELOW          
+B496      8         9         VERTEX_MISMATCHIN_RANGE       
+B497      10        11        16             IN_RANGE       
+B498      8         7         VERTEX_MISMATCHIN_RANGE       
+B499      8         8         VERTEX_MISMATCHIN_RANGE       
+B500      10        11        16             IN_RANGE       
+
+============================================================
+STATISTICS (first 500 graphs from file B):
+Graphs with GED <= 5: 0
+Graphs with GED > 5: 240
+Graphs with edges < 4: 59
+Graphs with edges > 14: 0
+Graphs with edges in range [4, 14]: 441
+Graphs with different vertex count: 260
+Total graphs processed: 500
